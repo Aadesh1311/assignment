@@ -1,6 +1,6 @@
 # The Hindustan Times clone
 The Hindustan times clone. It is a news website which contain dedicated section for every category.It is India's one of the biggest online portal.
-Tech use are: HTML CSS JavaScript.
+Tech uses are: HTML CSS JavaScript.
 
 
 Build Time:5 days
