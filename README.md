@@ -5,4 +5,5 @@ The Hindustan times clone. It is a news website which contain dedicated section 
 Build Time:5 days
 
 Netlify link:https://rainbow-naiad-d7723d.netlify.app/
+Github repo:https://github.com/Aadesh1311/assignment/
 
